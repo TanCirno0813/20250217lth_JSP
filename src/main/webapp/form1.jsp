@@ -8,7 +8,7 @@
 </head>
 <body>
 <form action = "result.jsp">
-	<input type="text" name ="kor"/>
+	<input type="text" name ="id"/>
 	<input type="submit"/>
 </form>
 </body>

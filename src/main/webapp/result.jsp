@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<%= request.getParameter("kor") %>
+<%= request.getParameter("id")+"님 안녕하세요" %>
 </body>
 </html>
