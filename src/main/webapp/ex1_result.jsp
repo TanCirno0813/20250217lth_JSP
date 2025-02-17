@@ -27,7 +27,7 @@
     <div class="info">
         <%= "성별: " + request.getParameter("gender") %>
     </div>
-
+	<a></a>
  
 </div>
 </body>
